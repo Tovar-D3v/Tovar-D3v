@@ -1,6 +1,27 @@
 <h1 align="center"><b>Hi , I'm Wilfred Tovar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <h3 align="center"></h3>
+
+👨‍💻 Software development technologist passionate about learning and innovation.
+I’m focused on expanding my knowledge in front-end and back-end development, always striving to create efficient, creative, and productive solutions.
+
+🌱 Currently learning:
+
+Nest.js
+Angular
+Automation & Software Integration
+💡 I love building tools that simplify daily tasks and optimize workflows. Continuous learning fuels my professional growth.
+
+👯 I’m interested in collaborating on open-source projects and connecting with developers who love to innovate.
+
+✔ Ask me anything about development or technology — I’d be happy to help and share knowledge!
+
+Outside of tech, 🎮 I enjoy playing video games, 🎵 listening to music, and 📖 reading about technology.
+
+📫 Get in touch: w.tovar@utp.edu.co
+🔗 Check out my projects: Tovar-D3v GitHub
+
+
+<h2 align="start"><b>My Skills Include</b></h2>
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
