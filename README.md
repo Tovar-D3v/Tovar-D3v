@@ -36,7 +36,7 @@
 
 <h3>📫 Contáctame | Get in Touch 📫</h3>
 <p>
-  <a href="mailto:tuemail@ejemplo.com">📧 Envíame un correo | Email Me</a><br>
+  <a href="mailto:w.tovar@utp.edu.co">📧 Envíame un correo | Email Me</a><br>
   🔗 <a href="https://github.com/Tovar-D3v" target="_blank">Mira mis proyectos | Check out my projects</a>
 </p>
 
