@@ -15,7 +15,7 @@
   I love building tools that simplify daily tasks and optimize workflows.
 </p>
 
-<h3>👯 Colaboración | Collaboration 👯</h3>
+<h3>🫂 Colaboración | Collaboration 🫂</h3>
 <p>
   Estoy interesado en colaborar en proyectos de código abierto y conectar con otros desarrolladores.<br>
   I’m interested in collaborating on open-source projects and connecting with fellow developers.
