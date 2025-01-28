@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 <div align="start">
-  <h3>👨‍💻 Tecnólogo en Desarrollo de Software | Software Development Technologist 👨‍💻</h3>
+  <h3>👨‍💻 Desarrollador de Software | Software Development 👨‍💻</h3>
   <p>
     Apasionado por aprender, innovar y crear soluciones eficientes.<br>
     Passionate about learning, innovating, and creating efficient solutions.
