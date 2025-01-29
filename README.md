@@ -2,44 +2,11 @@
 <h3 align="center"></h3>
 
 <div align="start">
-  <h3>👨‍💻 Desarrollador de Software | Software Development 👨‍💻</h3>
+  <h3>👨‍💻 Software Development</h3>
   <p>
-    Apasionado por aprender, innovar y crear soluciones eficientes.<br>
     Passionate about learning, innovating, and creating efficient solutions.
   </p>
 </div>
-
-<h3>💡 Sobre Mí | About Me 💡</h3>
-<p>
-  Me encanta desarrollar herramientas que simplifiquen tareas diarias y optimicen flujos de trabajo.<br>
-  I love building tools that simplify daily tasks and optimize workflows.
-</p>
-
-<h3>🫂 Colaboración | Collaboration 🫂</h3>
-<p>
-  Estoy interesado en colaborar en proyectos de código abierto y conectar con otros desarrolladores.<br>
-  I’m interested in collaborating on open-source projects and connecting with fellow developers.
-</p>
-
-<h3>✔ Pregúntame Lo Que Quieras | Ask Me Anything ✔</h3>
-<p>
-  Estoy feliz de ayudar y compartir conocimientos sobre desarrollo y tecnología.<br>
-  I’m happy to help and share knowledge about development and technology.
-</p>
-
-<h3>🎮 Fuera de la Tecnología | Outside of Tech 🎮</h3>
-<ul>
-  <li>🎮 Jugar videojuegos | Playing video games</li>
-  <li>🎵 Escuchar música | Listening to music</li>
-  <li>📖 Leer sobre ciencia y tecnología | Reading about science and technology</li>
-</ul>
-
-<h3>📫 Contáctame | Get in Touch 📫</h3>
-<p>
-  <a href="mailto:w.tovar@utp.edu.co">📧 Envíame un correo | Email Me</a><br>
-  🔗 <a href="https://github.com/Tovar-D3v" target="_blank">Mira mis proyectos | Check out my projects</a>
-</p>
-
 
 <h3 align="start"><b>My Skills Include</b></h3>
 
