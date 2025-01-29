@@ -8,6 +8,8 @@
   </p>
 </div>
 
+![mouredev_github_profile](https://github.com/user-attachments/assets/884b2b83-9721-4fa2-89bb-42798cfe34ad)
+
 <h3 align="start"><b>My Skills Include</b></h3>
 
 <div>
