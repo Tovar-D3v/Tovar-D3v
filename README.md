@@ -8,7 +8,7 @@
   </p>
 </div>
 
-![mouredev_github_profile](https://github.com/user-attachments/assets/884b2b83-9721-4fa2-89bb-42798cfe34ad)
+![dev](https://github.com/user-attachments/assets/e988c53f-5c83-48bd-8bbc-d59369d28e48)
 
 <h3 align="start"><b>My Skills Include</b></h3>
 
@@ -30,7 +30,6 @@
   <img  alt="jinja" src ="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"/>
   <img  alt="vite" src ="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img  alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
- <br><br>
 </div>
 
 <div>
