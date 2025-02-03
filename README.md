@@ -3,6 +3,8 @@
 
 Soy un **desarrollador  Backend** apasionado por la creación de aplicaciones escalables y eficientes mediante **APIs y arquitectura de microservicios**.  
 
+![dev](https://github.com/user-attachments/assets/e988c53f-5c83-48bd-8bbc-d59369d28e48)
+
 ## 🚀 Tecnologías con las que trabajo  
 - **Backend:** Java con Spring Boot, Python con Django REST Framework  
 - **Frontend:** React  
@@ -22,8 +24,6 @@ Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial e
 Estoy enfocando más en **Java con Spring Boot**, debido a su robustez, escalabilidad y eficiencia en el desarrollo de **microservicios** y **APIs empresariales**. Me interesa profundizar en **arquitecturas reactivas**, **optimización del rendimiento** y **seguridad** en aplicaciones backend.  
 
 Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, seguridad y escalabilidad de las aplicaciones. 🚀  
-
-![dev](https://github.com/user-attachments/assets/e988c53f-5c83-48bd-8bbc-d59369d28e48)
 
 ## ☕ Algunas de las Tecnologias que utilizo
 <div>
