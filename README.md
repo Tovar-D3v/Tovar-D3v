@@ -25,7 +25,7 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
 
 ![dev](https://github.com/user-attachments/assets/e988c53f-5c83-48bd-8bbc-d59369d28e48)
 
-<h3 align="start"><b>Algunas de las Tecnologias que utilizo</b></h3>
+## ☕ Algunas de las Tecnologias que utilizo
 <div>
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
