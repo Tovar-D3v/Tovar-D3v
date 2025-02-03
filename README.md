@@ -12,6 +12,8 @@ Soy un **desarrollador  Backend** apasionado por la creación de aplicaciones es
 - **Autenticación y Seguridad:** JWT (JSON Web Token)  
 - **Mensajería y Comunicación:** RabbitMQ para gestión de colas y caché, WebSockets para comunicación en tiempo real  
 - **Despliegue:** Servidores **Linux Ubuntu**, utilizando **Apache** para la configuración y despliegue  
+- **Contenedores y DevOps:** Docker para la contenedorización de aplicaciones  
+- **Control de versiones:** Git para la gestión del código y flujo de trabajo colaborativo  
 
 ## 💼 Experiencia  
 Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial enfocado en la **optimización de procesos**, como:  
