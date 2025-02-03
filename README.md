@@ -1,7 +1,7 @@
 <h1 align="center">☕<b>Hola, Mi nombre es Wilfred Tovar</b>👋</h1>
 <h3 align="center"></h3>
 
-Soy un **desarrollador Full Stack** apasionado por la creación de aplicaciones escalables y eficientes mediante **APIs y arquitectura de microservicios**.  
+Soy un **desarrollador  Backend** apasionado por la creación de aplicaciones escalables y eficientes mediante **APIs y arquitectura de microservicios**.  
 
 ## 🚀 Tecnologías con las que trabajo  
 - **Backend:** Java con Spring Boot, Python con Django REST Framework  
