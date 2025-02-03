@@ -18,6 +18,9 @@ Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial e
 ✅ **Gestión de inventarios**  
 ✅ **Medición de tiempos de trabajo**  
 
+## 🔥 Enfoque actual  
+Estoy enfocando más en **Java con Spring Boot**, debido a su robustez, escalabilidad y eficiencia en el desarrollo de **microservicios** y **APIs empresariales**. Me interesa profundizar en **arquitecturas reactivas**, **optimización del rendimiento** y **seguridad** en aplicaciones backend.  
+
 Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, seguridad y escalabilidad de las aplicaciones. 🚀  
 
 ![dev](https://github.com/user-attachments/assets/e988c53f-5c83-48bd-8bbc-d59369d28e48)
