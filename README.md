@@ -25,7 +25,7 @@ Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial e
 ## 🔥 Enfoque actual  
 Estoy enfocando más en **Java con Spring Boot**, debido a su robustez, escalabilidad y eficiencia en el desarrollo de **microservicios** y **APIs empresariales**. Me interesa profundizar en **arquitecturas reactivas**, **optimización del rendimiento** y **seguridad** en aplicaciones backend.  
 
-Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, seguridad y escalabilidad de las aplicaciones. 🚀  
+Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, seguridad y escalabilidad de las aplicaciones.  
 
 ## ☕ Algunas de las Tecnologias que utilizo
 <div>
