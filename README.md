@@ -47,8 +47,6 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
   <img  alt="rabbit" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
 
-<br><br>
-
 ## 🌱 Algunos de mis Proyectos
 <table style="width:100%">
   <tr>
