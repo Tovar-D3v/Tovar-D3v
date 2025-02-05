@@ -52,6 +52,28 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
  <br><br>
 </div>
 
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <a>
+        <img src="https://github.com/user-attachments/assets/77d26df6-27a5-4c5e-9aa3-05bc066a9884">
+      </a>
+    </td>
+    <td>
+      <a>
+        <img src="https://github.com/user-attachments/assets/1e5e3cd7-9f45-4837-80b0-5b102cd1c705">
+      </a>
+    </td>
+    <td>
+      <a>
+        <img src="https://github.com/user-attachments/assets/4c06fe4b-8acc-4c4d-98ab-bd977db2a94e">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
     alt="iscpatricio92" />
