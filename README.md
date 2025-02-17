@@ -57,7 +57,7 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
     </td>
     <td>
       <a>
-        <img src="https://github.com/user-attachments/assets/1e5e3cd7-9f45-4837-80b0-5b102cd1c705">
+        <img src="https://github.com/user-attachments/assets/cdf1d0b2-07b7-4e24-ad9d-33f6da99eeaf">
       </a>
     </td>
     <td>
