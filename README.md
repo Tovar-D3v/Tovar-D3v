@@ -6,21 +6,22 @@ Soy un **desarrollador  Backend** apasionado por la creación de aplicaciones es
 ![dev](https://github.com/user-attachments/assets/e988c53f-5c83-48bd-8bbc-d59369d28e48)
 
 ## 🚀 Tecnologías con las que trabajo  
-- **Backend:** Java con Spring Boot, Python con Django REST Framework  
-- **Frontend:** React  
-- **Base de datos:** MySQL  
+- **Backend:** Java con Spring Boot, Python con Django REST Framework, Node.js
+- **Frontend:** React, React Native
+- **Base de datos:** MySQL, Postgre
 - **Autenticación y Seguridad:** JWT (JSON Web Token)  
 - **Mensajería y Comunicación:** RabbitMQ para gestión de colas y caché, WebSockets para comunicación en tiempo real  
 - **Despliegue:** Servidores **Linux Ubuntu**, utilizando **Apache** para la configuración y despliegue  
-- **Contenedores y DevOps:** Docker para la contenedorización de aplicaciones  
-- **Control de versiones:** Git para la gestión del código y flujo de trabajo colaborativo  
+- **Contenedores y DevOps:** Docker para la contenedorización de aplicaciones y Docker compose  
+- **Control de versiones:** Git para la gestión del código y flujo de trabajo colaborativo y Git actions 
 
 ## 💼 Experiencia  
 Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial enfocado en la **optimización de procesos**, como:  
 ✅ **CRM**  
 ✅ **Cuadros de costeo y cotizaciones**  
 ✅ **Gestión de inventarios**  
-✅ **Medición de tiempos de trabajo**  
+✅ **Medición de tiempos de trabajo** 
+✅ **Aplicacion Movil para monitoreo de vendedores** 
 
 ## 🔥 Enfoque actual  
 Estoy enfocando más en **Java con Spring Boot**, debido a su robustez, escalabilidad y eficiencia en el desarrollo de **microservicios** y **APIs empresariales**. Me interesa profundizar en **arquitecturas reactivas**, **optimización del rendimiento** y **seguridad** en aplicaciones backend.  
