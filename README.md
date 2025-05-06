@@ -20,7 +20,7 @@ Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial e
 ✅ **CRM**  
 ✅ **Cuadros de costeo y cotizaciones**  
 ✅ **Gestión de inventarios**  
-✅ **Medición de tiempos de trabajo**
+✅ **Medición de tiempos de trabajo**  
 ✅ **Aplicacion Movil para monitoreo de vendedores** 
 
 ## 🔥 Enfoque actual  
