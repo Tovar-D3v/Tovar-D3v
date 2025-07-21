@@ -17,11 +17,11 @@ Soy un **desarrollador  Backend** apasionado por la creación de aplicaciones es
 
 ## 💼 Experiencia  
 Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial enfocado en la **optimización de procesos**, como:  
- **CRM**  
- **Cuadros de costeo y cotizaciones**  
- **Gestión de inventarios**  
- **Medición de tiempos de trabajo**  
- **Aplicacion Movil para monitoreo de vendedores** 
+- **CRM**  
+- **Cuadros de costeo y cotizaciones**  
+- **Gestión de inventarios**  
+- **Medición de tiempos de trabajo**  
+- **Aplicacion Movil para monitoreo de vendedores** 
 
 ## 🔥 Enfoque actual  
 Estoy enfocando más en **Java con Spring Boot**, debido a su robustez, escalabilidad y eficiencia en el desarrollo de **microservicios** y **APIs empresariales**. Me interesa profundizar en **arquitecturas reactivas**, **optimización del rendimiento** y **seguridad** en aplicaciones backend.  
