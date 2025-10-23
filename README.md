@@ -8,16 +8,16 @@ Soy un **desarrollador  Backend** apasionado por la creación de aplicaciones es
 ## 🚀 Tecnologías con las que trabajo  
 - **Backend:** Java con Spring Boot, Python con Django REST Framework, Node.js
 - **Frontend:** React, React Native
-- **Base de datos:** MySQL, Postgre
+- **Base de datos:** MySQL, PostgreSql
 - **Autenticación y Seguridad:** JWT (JSON Web Token)  
 - **Mensajería y Comunicación:** RabbitMQ para gestión de colas y caché, WebSockets para comunicación en tiempo real  
-- **Despliegue:** Servidores **Linux Ubuntu**, utilizando **Apache** para la configuración y despliegue  
-- **Contenedores y DevOps:** Docker para la contenedorización de aplicaciones y Docker compose  
+- **Despliegue:** Servidores **Linux Ubuntu**, utilizando **Apache** para la configuración y despliegue
+- **Contenedores y DevOps:** Docker para la contenedorización de aplicaciones y Docker compose
 - **Control de versiones:** Git para la gestión del código y flujo de trabajo colaborativo y Git actions 
 
 ## 💼 Experiencia  
 Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial enfocado en la **optimización de procesos**, como:  
-- **CRM**  
+- **Customer Relationship Managemen (CRM)**  
 - **Cuadros de costeo y cotizaciones**  
 - **Gestión de inventarios**  
 - **Medición de tiempos de trabajo**  
@@ -63,12 +63,24 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
     </td>
     <td>
       <a>
-        <img src="https://github.com/user-attachments/assets/93e507ce-9c0f-41f1-9da3-ec7913f4b0ce">
+        <img src="https://github.com/user-attachments/assets/4c06fe4b-8acc-4c4d-98ab-bd977db2a94e">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a>
+        <img src="https://github.com/user-attachments/assets/34218e2d-8dfc-4317-9715-8042daf5d70e" />
       </a>
     </td>
     <td>
       <a>
-        <img src="https://github.com/user-attachments/assets/4c06fe4b-8acc-4c4d-98ab-bd977db2a94e">
+        <img src="https://github.com/user-attachments/assets/abc0fbd4-9027-4373-ac41-c63b3913528c" />
+      </a>
+    </td>
+    <td>
+      <a>
+        <img src="https://github.com/user-attachments/assets/7cb1321b-b371-4467-ae16-a0bad00bcf9e" />
       </a>
     </td>
   </tr>
