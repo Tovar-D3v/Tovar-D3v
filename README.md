@@ -5,7 +5,7 @@ Soy un **desarrollador  Backend** apasionado por la creación de aplicaciones es
 
 ![dev](https://github.com/user-attachments/assets/e988c53f-5c83-48bd-8bbc-d59369d28e48)
 
-## 🚀 Tecnologías con las que trabajo  
+## Tecnologías con las que trabajo  
 - **Backend:** Java con Spring Boot, Python con Django REST Framework, Node.js
 - **Frontend:** React, React Native
 - **Base de datos:** MySQL, PostgreSql
@@ -15,7 +15,7 @@ Soy un **desarrollador  Backend** apasionado por la creación de aplicaciones es
 - **Contenedores y DevOps:** Docker para la contenedorización de aplicaciones y Docker compose
 - **Control de versiones:** Git para la gestión del código y flujo de trabajo colaborativo y Git actions 
 
-## 💼 Experiencia  
+## Experiencia  
 Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial enfocado en la **optimización de procesos**, como:  
 - **Customer Relationship Managemen (CRM)**  
 - **Cuadros de costeo y cotizaciones**  
@@ -23,12 +23,12 @@ Actualmente, trabajo en **Indelpa S.A.S.**, desarrollando software empresarial e
 - **Medición de tiempos de trabajo**  
 - **Aplicacion Movil para monitoreo de vendedores** 
 
-## 🔥 Enfoque actual  
+## Enfoque actual  
 Estoy enfocando más en **Java con Spring Boot**, debido a su robustez, escalabilidad y eficiencia en el desarrollo de **microservicios** y **APIs empresariales**. Me interesa profundizar en **arquitecturas reactivas**, **optimización del rendimiento** y **seguridad** en aplicaciones backend.  
 
 Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, seguridad y escalabilidad de las aplicaciones.  
 
-## ☕ Algunas de las Tecnologias que utilizo
+## Algunas de las Tecnologias que utilizo
 <div>
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -48,7 +48,7 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
   <img  alt="rabbit" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
 
-## 🌱 Algunos de los proyectos en los que he trabajado
+## Algunos de los proyectos en los que he trabajado
 <table style="width:100%">
   <tr>
     <td>
