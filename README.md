@@ -1,4 +1,4 @@
-<h1  align="center">☕ <b>Hola, Mi nombre es Wilfred Tovar</b></h1>
+<h1  align="center"> <b>Hola, Mi nombre es Wilfred Tovar</b></h1>
 <h3 align="center"></h3>
 
 Soy un **desarrollador  Backend** apasionado por la creación de aplicaciones escalables y eficientes mediante **APIs y arquitectura de microservicios**.  
