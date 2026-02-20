@@ -86,17 +86,14 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
   </tr>
 </table>
 
+## Aplicación Oficial ACME Sena
 <table style="width:100%">
   <tr>
-    <td>
-      <a>
-        <img src="https://github.com/user-attachments/assets/060354ec-7cdd-4c78-8459-405bac959f0c" style="border-radius: 35px;">
-      </a>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/060354ec-7cdd-4c78-8459-405bac959f0c" alt="Vista Principal Actas" style="border-radius: 35px;">
     </td>
-    <td>
-      <a>
-        <img src="https://github.com/user-attachments/assets/c5819949-d684-4ba5-860e-c26d6cc99f9b" style="border-radius: 35px;">
-      </a>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/c5819949-d684-4ba5-860e-c26d6cc99f9b" alt="Panel Lateral Instructores" style="border-radius: 35px;">
     </td>
   </tr>
 </table>
