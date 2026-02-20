@@ -90,7 +90,7 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
   <tr>
     <td>
       <a>
-        img src="https://github.com/user-attachments/assets/060354ec-7cdd-4c78-8459-405bac959f0c" style="border-radius: 35px;">
+        <img src="https://github.com/user-attachments/assets/060354ec-7cdd-4c78-8459-405bac959f0c" style="border-radius: 35px;">
       </a>
     </td>
     <td>
