@@ -95,7 +95,7 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
     </td>
     <td>
       <a>
-        <img src="[https://via.placeholder.com/400x200?text=Slide+2](https://github.com/user-attachments/assets/c5819949-d684-4ba5-860e-c26d6cc99f9b)" style="border-radius: 35px;">
+        <img src="https://github.com/user-attachments/assets/c5819949-d684-4ba5-860e-c26d6cc99f9b" style="border-radius: 35px;">
       </a>
     </td>
   </tr>
