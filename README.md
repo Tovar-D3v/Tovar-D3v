@@ -86,6 +86,16 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
   </tr>
 </table>
 
+
+<div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 10px;">
+  <div style="flex: 0 0 80%; scroll-snap-align: start;">
+    <img src="https://github.com/user-attachments/assets/060354ec-7cdd-4c78-8459-405bac959f0c" style="border-radius: 35px;">
+  </div>
+  <div style="flex: 0 0 80%; scroll-snap-align: start;">
+    <img src="[https://via.placeholder.com/400x200?text=Slide+2](https://github.com/user-attachments/assets/c5819949-d684-4ba5-860e-c26d6cc99f9b)" style="border-radius: 35px;">
+  </div>
+</div>
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
     alt="iscpatricio92" />
