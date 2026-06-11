@@ -102,3 +102,14 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
   <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
     alt="iscpatricio92" />
 </p>
+
+
+## Foco Mental For VsCode Extension
+<a href="https://tovar-d3v.github.io/foco-mental/" >Donwload Extension</a>
+<table style="width:100%">
+  <tr>
+    <td width="100%" align="center">
+      <img width="1248" height="716" alt="image" src="https://github.com/user-attachments/assets/65439070-dccf-464c-be0f-0c8902d5cccd" />
+    </td>
+  </tr>
+</table>
