@@ -109,7 +109,7 @@ Siempre estoy explorando nuevas tecnologías para mejorar la eficiencia, segurid
   </tr>
 </table>
 
-## Multiagente Vendedoor de seguros de colsubsidio en Llamada
+## Multiagente Vendedor de seguros de colsubsidio en Llamada
 <table style="width:100%">
   <tr>
     <td width="100%" align="center">
